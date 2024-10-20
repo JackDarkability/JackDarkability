@@ -21,7 +21,8 @@ I have experience with many libraries such as:
 - BeautifulSoup
 - Selenium
 
-LinkedIn: https://www.linkedin.com/in/jack-newton-883437223/
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jack-newton-883437223/)
+
 
 <!---
 JackDarkability/JackDarkability is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
