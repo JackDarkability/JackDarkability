@@ -17,10 +17,10 @@ My list of languages that I am familiar with at this moment is:
 
 
 I have experience with many libraries such as:
-- React (
-- Numpy
-- BeautifulSoup
-- Selenium
+- React (Most used in my final year project and Team Project)
+- Numpy (Most used in AI projects)
+- BeautifulSoup (used in personal projects for web-scraping)
+- Selenium (used in personal projects for web-scraping)
 
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jack-newton-883437223/)
 
