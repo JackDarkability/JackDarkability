@@ -6,10 +6,10 @@
 - I'll be using this as a portfolio for any programs that I make in my free time, they also might be useful to people
 
 My list of languages that I am familiar with at this moment is:
-- Python (Around 8 years experience in school, university and personal)
+- Python (Around 8 years experience in school, university and personal. I have also used it as my main language at my job at Skuuudle)
 - JavaScript (Around 5 years experience, most used in my final year University project and Team Project)
-- HTML (Around 5 years experience, most used in my final year University project and Team Project)
-- SQL (Around 5 years experience, most used in my final year University project and Team Project)
+- HTML (Around 5 years experience, most used in my final year University project, Team Project and at my job)
+- SQL (Around 5 years experience, most used in my final year University project, Team Project and at work)
 - AutoHotKey (Personal use, 3 years)
 - Java (University, 1 year)
 - C++ (University in arduinos and personal use, 6 months)
