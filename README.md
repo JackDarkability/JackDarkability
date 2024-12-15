@@ -19,8 +19,10 @@ My list of languages that I am familiar with at this moment is:
 I have experience with many libraries such as:
 - React (Most used in my final year project and Team Project)
 - Numpy (Most used in AI projects)
+- Pandas (Used in university and profesionally)
 - BeautifulSoup (used in personal projects for web-scraping)
 - Selenium (used in personal projects for web-scraping)
+- Scrapy (used at work)
 
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jack-newton-883437223/)
 
